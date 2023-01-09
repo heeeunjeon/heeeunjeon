@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome&fontSize=50&desc=Heeeun%20GitHub&descSize=10&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome&fontSize=80&desc=Heeeun%20GitHub&descSize=10&descAlign=right)
 
 <h3 align="center"> 🙌 Introduce </h3>
 반갑습니다!
