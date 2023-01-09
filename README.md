@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!%20Heeeun%20GitHub&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=80)
 
 <h3 align="center"> 🙌 </h3>
 <p align="center">
@@ -6,6 +6,8 @@
   저는 현재 백엔드를 공부 중에 있고, <br>
   더 발전하는 개발자가 되기 위해 달려가고 있습니다 🏃🏻‍♀️
 </p>
+
+<br><br>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">Platforms & Languages</p>
@@ -23,7 +25,9 @@
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
 
 </div>
+
 <br>
+
 <div align=center>
 	<p>Tools</p>
 </div>
@@ -36,7 +40,7 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 
-<br>
+<br><br>
 
 <h3 align="center">🐣 Concact me 🐣</h3>
 
