@@ -42,8 +42,8 @@
 <h3 align="center">🐣 Concact me 🐣</h3>
 
 <div align=center>
-	<a href="https://ambitious-basin-4f1.notion.site/Heeeun-Coding-Note-9a4fb969fa9c459e901b682f881c3f0e">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	<a href="https://ambitious-basin-4f1.notion.site/9a4fb969fa9c459e901b682f881c3f0e">
+		<img src="https://img.shields.io/badge/000000?style=flat&logo=Notion&logoColor=white" />
 		Heeeun-Coding-Note
 	</a>
 	<br>
