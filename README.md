@@ -54,7 +54,7 @@
 
 <div align=center>
 	
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heeeunjeon&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heeeunjeon&langs_count=8&theme=radical)](https://github.com/heeeunjeon/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heeeunjeon&show_icons=true&theme=flag-india)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heeeunjeon&langs_count=8&theme=flag-india)](https://github.com/heeeunjeon/github-readme-stats)
 	
 </div>
