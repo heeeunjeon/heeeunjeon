@@ -7,8 +7,8 @@
   더 발전하는 개발자가 되기 위해 달려가고 있습니다 🏃🏻‍♀️
 </p>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center">Platforms & Languages</p>
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">💡 Platforms & Languages 💡</p>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -28,7 +28,7 @@
 </div>
 <br>
 <div align=center>
-	<p>Tools</p>
+	<p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
