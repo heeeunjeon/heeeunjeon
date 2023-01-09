@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=80&text)
 
-<h3 align="center"> 🙌 Introduce </h3>
+<h3 align="center"> 🙌 </h3>
 <p align="center">
   반갑습니다! 전희은입니다. <br>
   저는 현재 백엔드를 공부 중에 있고, <br>
