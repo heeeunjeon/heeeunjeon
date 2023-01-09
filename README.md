@@ -36,8 +36,9 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 
+<br>
 
-<p align="center">🐣 Concact me 🐣</p>
+<h3 align="center">🐣 Concact me 🐣</h3>
 
 <div align=center>
 	<a href="https://ambitious-basin-4f1.notion.site/Heeeun-Coding-Note-9a4fb969fa9c459e901b682f881c3f0e">
