@@ -46,9 +46,10 @@
 	<a href="https://ambitious-basin-4f1.notion.site/Heeeun-Coding-Note-9a4fb969fa9c459e901b682f881c3f0e">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
+	
 	<br>
 	
-	@ee.film
+	ee.film
 	<a href="https://www.instagram.com/ee.film">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
 	</a>
