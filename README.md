@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=80)
-
 <h3 align="center"> 🙌 </h3>
 <p align="center">
   반갑습니다! 전희은입니다. <br>
