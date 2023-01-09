@@ -1,12 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome&fontSize=80&desc=Heeeun%20GitHub&descSize=10&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=80&desc=Heeeun%20GitHub&descSize=10&descAlign=60)
 
-<h3 align="center"> 🙌 Introduce </h3>
+<h3 align="center"> 🙌 Introduce 🙌 </h3>
 <p align="center">
-  반갑습니다! 
-  제 이름은 전희은이고, 백엔드를 
+  반갑습니다! 전희은입니다. <br>
+  현재 백엔드를 공부 중에 있고, <br>
+  더 발전하는 개발자가 되기 위해 노력 중 입니다 🏃🏻‍♀️
 </p>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center">I've tried this technique</p>
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center" style="font-weight:bold">Platforms & Languages</p>
 <img src="https://img.shields.io/badge/java-#0085CA?style=flat-square&logo=java&logoColor=white"/>
-
