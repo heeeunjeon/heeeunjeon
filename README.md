@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=80&text)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!%20Heeeun%20GitHub&fontSize=80)
 
 <h3 align="center"> 🙌 </h3>
 <p align="center">
