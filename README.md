@@ -5,7 +5,7 @@
   더 발전하는 개발자가 되기 위해 달려가고 있습니다 🏃🏻‍♀️
 </p>
 
-<br><br>
+<br>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">Platforms & Languages</p>
@@ -19,7 +19,6 @@
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
 	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
-	<br>
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
 
 </div>
@@ -38,7 +37,7 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 
-<br><br>
+<br>
 
 <h3 align="center">🐣 Concact me 🐣</h3>
 
