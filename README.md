@@ -50,3 +50,6 @@
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
 	</a>
 </div>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heeeunjeon&langs_count=8)](https://github.com/heeeunjeon/github-readme-stats)
