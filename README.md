@@ -35,3 +35,16 @@
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
+
+
+<p align="center">🐣 Concact me 🐣</p>
+
+<div align=center>
+	<a href="https://ambitious-basin-4f1.notion.site/Heeeun-Coding-Note-9a4fb969fa9c459e901b682f881c3f0e">
+		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	</a>
+	<br>
+	<a href="https://www.instagram.com/ee.film">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
+	</a>
+</div>
