@@ -54,4 +54,7 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heeeunjeon&langs_count=8)](https://github.com/heeeunjeon/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디&show_icons=true&theme=radical)
+
+<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheeeunjeon&count_bg=%23BFD7EE&title_bg=%23707DF6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
