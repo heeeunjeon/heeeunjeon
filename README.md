@@ -48,7 +48,6 @@
 	</a>
 	<br>
 	
-	@ee.film
 	<a href="https://www.instagram.com/ee.film">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
 	</a>
