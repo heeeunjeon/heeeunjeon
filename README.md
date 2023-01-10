@@ -39,7 +39,7 @@
 
 <br><br>
 
-<h3 align="center">🐣 Concact me 🐣</h3>
+<h3 align="center">🐣 Contact me 🐣</h3>
 
 <div align=center>
 	<a href="https://ambitious-basin-4f1.notion.site/Heeeun-Coding-Note-9a4fb969fa9c459e901b682f881c3f0e">
