@@ -1,8 +1,8 @@
 <h3 align="center"> 🙌 </h3>
 <p align="center">
-  반갑습니다! 전희은입니다. <br>
-  저는 현재 백엔드를 공부 중에 있고, <br>
-  더 발전하는 개발자가 되기 위해 달려가고 있습니다 🏃🏻‍♀️
+  Nice to meet you! My name is Jeon Hee-eun. <br>
+  I am currently studying the backend, <br>
+  I am running to become a more advanced developer 🏃🏻‍♀️💨
 </p>
 
 <br>
