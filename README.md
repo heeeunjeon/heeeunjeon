@@ -1,6 +1,6 @@
 <h3 align="center"> 🙌 </h3>
 <p align="center">
-  Nice to meet you! My name is Jeon Hee-eun. <br>
+  Nice to meet you! My name is Hee-eun Jeon. <br>
   I am currently studying the backend, <br>
   I am running to become a more advanced developer 🏃🏻‍♀️💨
 </p>
